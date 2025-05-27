@@ -1,0 +1,10 @@
+# python3 3.11
+stockfish
+python-chess
+PyAutoGUI
+keyboard
+beautifulsoup4
+lxml
+Pillow
+requests
+numpy
