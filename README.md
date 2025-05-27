@@ -4,13 +4,13 @@ Sicily is a real-time chess position analyzer that uses computer vision to detec
 
 ## Features
 
-- =� **Screenshot Analysis**: Take interactive screenshots of chess positions from any application
-- >� **AI Position Recognition**: Uses TensorFlow to detect and analyze chess piece positions
-- _ **Stockfish Integration**: Provides best move suggestions with configurable strength (ELO 800-2800)
-- �� **Dual Perspective Support**: Supports both White and Black perspectives with automatic board orientation detection
-- <� **Manual Override**: Force analysis for either side with simple keyboard commands
-- =� **Detailed Analysis**: Shows evaluation scores, top moves, and mate detection
-- = **Real-time Processing**: Continuous analysis loop for live game assistance
+- **Screenshot Analysis**: Take interactive screenshots of chess positions from any application
+- **AI Position Recognition**: Uses TensorFlow to detect and analyze chess piece positions
+- **Stockfish Integration**: Provides best move suggestions with configurable strength (ELO 800-2800)
+- **Dual Perspective Support**: Supports both White and Black perspectives with automatic board orientation detection
+- **Manual Override**: Force analysis for either side with simple keyboard commands
+- **Detailed Analysis**: Shows evaluation scores, top moves, and mate detection
+- **Real-time Processing**: Continuous analysis loop for live game assistance
 
 ## Installation
 
