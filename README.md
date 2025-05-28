@@ -40,6 +40,14 @@ Run the main script:
 python3 sicily.py
 ```
 
+### test.py Input/Output
+
+**Input Image:**
+![Input Chess Position](input.png)
+
+**Analysis Output:**
+![Analyzed Position with Suggestions](input_out.png)
+
 ## How It Works
 
 1. **Screenshot Capture**: Uses macOS `screencapture -i` for interactive area selection
